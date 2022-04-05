@@ -5,7 +5,7 @@ using UnityEngine;
 public class Books : MonoBehaviour
 {
     public GameObject[] book;
-    public int aa;
+    public int aabb;
     void Start()
     {
         
