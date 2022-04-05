@@ -7,7 +7,10 @@ public class Books : MonoBehaviour
     public GameObject[] book;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 6b06ecc (third)
 =======
 >>>>>>> parent of 6b06ecc (third)
 =======
