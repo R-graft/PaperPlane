@@ -5,10 +5,7 @@ using UnityEngine;
 public class Books : MonoBehaviour
 {
     public GameObject[] book;
-<<<<<<< HEAD
 
-=======
->>>>>>> parent of 6b06ecc (third)
     public int aa;
     void Start()
     {
